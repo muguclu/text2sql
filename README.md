@@ -64,8 +64,7 @@ text-to-sql/
 │   └── types.ts                # Shared TypeScript interfaces and types
 │
 ├── .env.example                # Environment variable template
-├── .env.local                  # Local secrets (git-ignored)
-└── netlify.toml                # Netlify deployment config
+└── .env.local                  # Local secrets (git-ignored)
 ```
 
 ---
