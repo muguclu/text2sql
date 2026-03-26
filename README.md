@@ -209,7 +209,3 @@ Example questions to try:
 - *Find users who have never placed an order*
 
 ---
-
-## License
-
-MIT
